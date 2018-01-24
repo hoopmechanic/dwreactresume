@@ -1,0 +1,226 @@
+{
+  "skills": {
+    "group": [
+      {
+        "name": "Web Technologies",
+        "id": "technologies",
+        "items": [
+          {
+            "name": "HTML5",
+            "icon": "devicons devicons-html5"
+          },
+          {
+            "name": "CSS3",
+            "icon": "devicons devicons-css3"
+          },
+          {
+            "name": "Bootstrap",
+            "icon": "devicons devicons-bootstrap"
+          },
+          {
+            "name": "Responsive Design",
+            "icon": "devicons devicons-responsive"
+          },
+          {
+            "name": "Modernizer",
+            "icon": "devicons devicons-modernizr"
+          },
+          {
+            "name": "SASS",
+            "icon": "devicons devicons-sass"
+          },
+          {
+            "name": "Compass",
+            "icon": "devicons devicons-compass"
+          },
+          {
+            "name": "Stylus",
+            "icon": "devicons devicons-stylus"
+          }
+        ]
+      },
+      {
+        "name": "Programming",
+        "id": "programming",
+        "items": [
+          {
+            "name": "Javascript",
+            "icon": "devicons devicons-javascript_shield"
+          },
+          {
+            "name": "jQuery",
+            "icon": "jquery"
+          },
+          {
+            "name": "jQuery UI",
+            "icon": "devicons devicons-jquery_ui"
+          },
+          {
+            "name": "Ruby on Rails",
+            "icon": "devicons devicons-ruby_on_rails"
+          },
+          {
+            "name": "Markdown",
+            "icon": "devicons devicons-markdown"
+          },
+          {
+            "name": "PHP",
+            "icon": "devicons devicons-php"
+          },
+          {
+            "name": "React",
+            "icon": "devicons devicons-react"
+          },
+          {
+            "name": "Swift",
+            "icon": "devicons devicons-swift"
+          },
+          {
+            "name": "Jira",
+            "icon": "devicons devicons-jira"
+          },
+          {
+            "name": "Scrum",
+            "icon": "devicons devicons-scrum"
+          }
+        ]
+      },
+      {
+        "name": "Server Technologies",
+        "id": "server",
+        "items": [
+          {
+            "name": "NodeJS",
+            "icon": "devicons devicons-nodejs_small"
+          },
+          {
+            "name": "NPM",
+            "icon": "devicons devicons-npm"
+          },
+          {
+            "name": "Grunt",
+            "icon": "devicons devicons-grunt"
+          },
+          {
+            "name": "Gulp",
+            "icon": "devicons devicons-gulp"
+          },
+          {
+            "name": "GitHub",
+            "icon": "devicons devicons-github_alt"
+          },
+          {
+            "name": "MySQL",
+            "icon": "devicons devicons-mysql"
+          },
+          {
+            "name": "Firebase",
+            "icon": "devicons devicons-firebase"
+          },
+          {
+            "name": "MongoDB",
+            "icon": "devicons devicons-mongodb"
+          },
+          {
+            "name": "Yeoman",
+            "icon": "devicons devicons-yeoman"
+          }
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "id": "os",
+        "items": [
+          {
+            "name": "MacOS",
+            "icon": "devicons devicons-apple"
+          },
+          {
+            "name": "Windows",
+            "icon": "devicons devicons-windows"
+          },
+          {
+            "name": "Linux",
+            "icon": "devicons devicons-linux"
+          },
+          {
+            "name": "AWS",
+            "icon": "devicons devicons-aws"
+          },
+          {
+            "name": "Ubuntu",
+            "icon": "devicons devicons-ubuntu"
+          },
+          {
+            "name": "Red Hat",
+            "icon": "devicons devicons-redhat"
+          },
+          {
+            "name": "Debian",
+            "icon": "devicons devicons-debian"
+          },
+          {
+            "name": "Heroku",
+            "icon": "devicons devicons-heroku"
+          },
+          {
+            "name": "Digital Ocean",
+            "icon": "devicons devicons-digital-ocean"
+          }
+        ]
+      },
+      {
+        "name": "Content Management Systems",
+        "id": "cms",
+        "items": [
+          {
+            "name": "WordPress",
+            "icon": "devicons devicons-wordpress"
+          },
+          {
+            "name": "Drupal",
+            "icon": "devicons devicons-drupal"
+          },
+          {
+            "name": "Magento",
+            "icon": "devicons devicons-magento"
+          },
+          {
+            "name": "Joomla",
+            "icon": "devicons devicons-joomla"
+          }
+        ]
+      },
+      {
+        "name": "Graphic Software and Editors",
+        "id": "graphics-editors",
+        "items": [
+          {
+            "name": "Illustrator",
+            "icon": "devicons devicons-illustrator"
+          },
+          {
+            "name": "Photoshop",
+            "icon": "devicons devicons-photoshop"
+          },
+          {
+            "name": "Atom",
+            "icon": "devicons devicons-atom"
+          },
+          {
+            "name": "Coda",
+            "icon": "devicons devicons-coda"
+          },
+          {
+            "name": "Sublime",
+            "icon": "devicons devicons-sublime"
+          },
+          {
+            "name": "Visual Studio",
+            "icon": "devicons devicons-visualstudio"
+          }
+        ]
+      }
+    ]
+  }
+}

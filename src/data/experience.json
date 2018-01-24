@@ -1,0 +1,207 @@
+{
+  "jobs": [
+    {
+      "jobTitle": "UX/UI and Full Stack Development Consultant",
+      "companyLine1": "Washington Apps, Inc.",
+      "companyLine2": "",
+      "companyLine3": "",
+      "description": "",
+      "dates": "4/2015 – present",
+      "tasks": [],
+      "subJobs": [
+        {
+          "title": "Drupal Developer",
+          "company": "Timing Excellence, LLC",
+          "description":
+            "Created and deployed a full-featured sports event timing online registration web application. Features include a listing of upcoming registered events, completed events with timed results and an online registration system.",
+          "tasks": [
+            {
+              "task":
+                "Built the site on the Drupal content management system (CMS)."
+            },
+            {
+              "task":
+                "Created custom content types and implemented Panels, Blocks and Views to customize the design of the site."
+            },
+            {
+              "task":
+                "Modified jQuery and Ajax on existing template to improve user interfaces."
+            },
+            {
+              "task":
+                "Maintained installation with module and security updates."
+            }
+          ]
+        },
+        {
+          "title": "UX/UI Design Consultant",
+          "company": "Facepop Company, LLC",
+          "description":
+            "Worked as design consultant for start-up to refactor interface for mobile application.",
+          "tasks": [
+            {
+              "task":
+                "Met with stakeholders, designers and developers to review existing user experience documentation and develop a complete understanding of requirements."
+            },
+            {
+              "task":
+                "Created sketches and high fidelity wireframes that met the client’s needs and vision."
+            }
+          ]
+        },
+        {
+          "title": "Lead Drupal and React Frontend Development Consultant",
+          "company": "UnifyMe.tv",
+          "description":
+            "Created and deployed an on-demand media streaming site on the Drupal content management system platform and developed a programmed media streaming site with React.js.",
+          "tasks": [
+            {
+              "task":
+                "Built a custom template for the on-demand site featuring jQuery and Ajax."
+            },
+            {
+              "task":
+                "Developed a custom client management data component in Views to update user data, streaming media and image gallery resources."
+            },
+            {
+              "task":
+                "Managed a Drupal development consultant to create a custom module that modified the Stripe payment module to accept payments and issue credits for access to streaming media resources."
+            },
+            {
+              "task":
+                "Built a programmed streaming site with React.js and implemented the Wowza Player Javascript API for clients to view content."
+            },
+            {
+              "task":
+                "Configured the Wowza Streaming server to deliver content using the Wowza Streaming Engine REST API service."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "jobTitle": "Senior UX/UI Designer and IA Specialist",
+      "companyLine1": "University of California Los Angeles",
+      "companyLine2": "Student Affairs Information Technology",
+      "companyLine3": "",
+      "description":
+        "Promoted to the Student Affairs Information Technology (SAIT) department to work with stakeholders and the development team on a variety of high priority and deadline sensitive projects. Collaborated with an outside consultant to advise on IA. Developed new approaches to complex UX and interface problems, created user-focused interface and refactored designs for the UCLA Online Registration and Student Enrollment Management System. Provided consulting for a variety of interdepartmental projects that included the development of UI interfaces for web CMS, mobile web, tablet, and mobile applications (iOS).",
+      "dates": "5/2012 – 4/2015",
+      "tasks": [
+        {
+          "task":
+            "Used Omnigraffle, Sketch, Adobe Photoshop, Adobe Illustrator and Axure RP to create a variety of user-focused design elements that improved the user experience for the UCLA Registration and Student Enrollment Management System applications."
+        },
+        {
+          "task":
+            "Worked as lead designer responsible for managing the creation of personas, process workflows, user workflows, sketches, conceptual wireframes, high fidelity designs and live prototypes to present to stakeholders in UCLA’s UIT, ITS and SAIT departments."
+        },
+        {
+          "task":
+            "Worked closely with stakeholders, internal department designers and developers to determine the requirements and define interface."
+        },
+        {
+          "task":
+            "Organized and implemented multiple user tests and observations."
+        },
+        {
+          "task":
+            "Presented designs in the form of presentations, prototypes, and coding specifications."
+        },
+        {
+          "task":
+            "Created high fidelity wireframes and other deliverables based on the UCLA brand identity for the development team."
+        },
+        {
+          "task":
+            "Used HTML and CSS to incorporate wireframe designs in development environment."
+        },
+        {
+          "task":
+            "Migrated UCLA Recreation ASP.net web site to Expression Engine content management system and created custom template based on UCLA brand identity."
+        }
+      ],
+      "subJobs": []
+    },
+    {
+      "jobTitle": "Web Designer/UI Specialist",
+      "companyLine1": "University of California Los Angeles",
+      "companyLine2": "Cultural and Recreation Affairs",
+      "companyLine3": "",
+      "description":
+        "Worked as a web design specialist to refactor and update a variety of fitness and health-based web sites. Promoted to work on Bridges 2 Health (B2H) project, a multilayered recreation management web application. Collaborated with technology professionals from UC Berkeley, UC Davis, UCLA and other outside development vendors.",
+      "dates": "10/2007 – 5/2012",
+      "tasks": [
+        {
+          "task":
+            "Organized meetings with stakeholders to refactor the design requirements for the B2H project."
+        },
+        {
+          "task":
+            "Created and presented sketches, conceptual wireframes, high fidelity designs for stakeholder review and approval."
+        },
+        {
+          "task":
+            "Worked with developers in ASP.net environment to implement UI for B2H project."
+        },
+        {
+          "task": "Created and implemented style guide for B2H developers."
+        },
+        {
+          "task":
+            "Planned, created and launched iWorkout, a user activity management site for the FITWELL department."
+        },
+        {
+          "task":
+            "Provided general support and wrote SQL scripts to create annual reports for iWorkout from MSSQL data source."
+        },
+        {
+          "task":
+            "Redesigned and maintained a host of existing Recreation sites."
+        }
+      ],
+      "subJobs": []
+    },
+    {
+      "jobTitle": "Lab Director",
+      "companyLine1": "University of California Los Angeles",
+      "companyLine2": "Office of Instructional Development",
+      "companyLine3":
+        "Instructional Multimedia Production Lab (Student Post-Production Facility)",
+      "description":
+        "Designed, built and managed a post-production facility that served over 15 faculty and 2,500 students annually for the Office of Instruction Development. This facility provided media production services for students outside of the UCLA Film and Television department. This position required collaboration with faculty to develop media-based curriculum projects as student assignments that included the production and manipulation of various types of media: photos, video and audio.",
+      "dates": "12/1996 – 6/2004",
+      "tasks": [
+        {
+          "task":
+            "Evaluated and purchased computer equipment and supplies for facility."
+        },
+        {
+          "task":
+            "Installed and maintained over 50 Apple and PC post-production and graphic workstations as well as specialty stations for the collection of various forms of media."
+        },
+        {
+          "task":
+            "Recruited, hired and trained a part-time student-based lab consultant team, a full-time assistant and a full-time lab technician."
+        },
+        {
+          "task":
+            "Prepared detailed, accurate annual budgets and successfully operated within projections."
+        },
+        {
+          "task":
+            "Designed multimedia training courses and procedural manuals for staff and faculty that included detailed instructions on workflows and the use of post-production and graphic software."
+        },
+        {
+          "task":
+            "Developed and implemented a marketing plan to promote the services of the lab to faculty in all academic departments that included organized special events, demonstrations and contests."
+        },
+        {
+          "task":
+            "Worked with Apple and Adobe to beta test post-production and graphic software applications including Final Cut Pro."
+        }
+      ],
+      "subJobs": []
+    }
+  ]
+}
